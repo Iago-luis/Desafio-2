@@ -1,0 +1,152 @@
+@media (max-width: 375px) {
+    body {
+
+        font-family: 'figtree', sans-serif;
+        font-size: 16px;
+        background-color: hsl(47, 88%, 63%);
+        height: 375px;
+    }
+
+    img {
+        position: relative;
+        width: 50%;
+        height: 50%;
+        left: 25%;
+        top: 2%;
+        border: 1px;
+        border-radius: 90px;
+
+    }
+        .pai {
+            position: relative;
+            height: 375px;
+            background-color: hsl(47, 88%, 63%);
+            border: 1px;
+            border-radius: 30px;
+
+        }
+
+        .filho {
+            position: absolute;
+            width: 350px;
+            height: 350px;
+            top: 50%;
+            left: 50%;
+            border: 3px solid;
+            border-radius: 30px;
+            transform: translate(-50%, -50%);
+            background-color: white;
+        }
+
+        .G {
+            position: absolute;
+            top: 80%;
+            left: 25%;
+            width: 100px;
+            height: 100px;
+            font-weight:600;
+            
+        }
+    }
+
+    @media (max-width: 576px) {
+        body {
+
+            font-family: 'figtree', sans-serif;
+            font-size: 16px;
+            background-color: hsl(47, 88%, 63%);
+            height: 375px;
+        }
+    
+        img {
+            position: relative;
+            width: 50%;
+            height: 50%;
+            left: 25%;
+            top: 2%;
+            border: 1px;
+            border-radius: 90px;
+    
+        }
+            .pai {
+                position: relative;
+                height: 375px;
+                background-color: hsl(47, 88%, 63%);
+                border: 1px;
+                border-radius: 30px;
+    
+            }
+    
+            .filho {
+                position: absolute;
+                width: 350px;
+                height: 350px;
+                top: 50%;
+                left: 50%;
+                border: 3px solid;
+                border-radius: 30px;
+                transform: translate(-50%, -50%);
+                background-color: white;
+            }
+    
+            .G {
+                position: absolute;
+                top: 80%;
+                left: 25%;
+                width: 100px;
+                height: 100px;
+                font-weight:600;
+                
+            }
+    }
+
+    @media (max-width: 768px) {
+        body {
+
+            font-family: 'figtree', sans-serif;
+            font-size: 16px;
+            background-color: hsl(47, 88%, 63%);
+            height: 375px;
+        }
+    
+        img {
+            position: relative;
+            width: 50%;
+            height: 50%;
+            left: 25%;
+            top: 2%;
+            border: 1px;
+            border-radius: 90px;
+    
+        }
+            .pai {
+                position: relative;
+                height: 375px;
+                background-color: hsl(47, 88%, 63%);
+                border: 1px;
+                border-radius: 30px;
+    
+            }
+    
+            .filho {
+                position: absolute;
+                width: 350px;
+                height: 350px;
+                top: 50%;
+                left: 50%;
+                border: 3px solid;
+                border-radius: 30px;
+                transform: translate(-50%, -50%);
+                background-color: white;
+            }
+    
+            .G {
+                position: absolute;
+                top: 80%;
+                left: 25%;
+                width: 100px;
+                height: 100px;
+                font-weight:600;
+                
+            }
+    }

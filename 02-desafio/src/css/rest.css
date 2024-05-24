@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    border: 0px;
+}
+
+@font-face {
+    font-family: "Figtree";
+    src: url("../fonts/Figtree-Italic-VariableFont_wght.ttf"),
+        url("../fonts/Figtree-VariableFont_wght.ttf");
+}
+
+body {
+
+    font-family: 'figtree', sans-serif;
+    font-size: 16px;
+    background-color: hsl(47, 88%, 63%);
+    height: 1440px;
+
+}
+
+img {
+    position: relative;
+    width: 247px;
+    height: 247px;
+    left: 25%;
+    top: 2%;
+    border: 1px;
+    border-radius: 90px;
+
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
