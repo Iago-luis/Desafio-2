@@ -1,4 +1,4 @@
-### Dafio dois
+### Desafio 2
 
 ## Dificudades
 teve menos dificuldades no css,devido a estar fazendo esse deafio ,sei que a queli ditadi e verdadeiro água mole ,pedra dura tanto bate ateq que fura, pessebi um avaso nos meus estuda aparti do momento que comecei a fase esse desafio,pois ets afocando o meu intedimento.
